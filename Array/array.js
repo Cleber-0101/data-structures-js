@@ -22,8 +22,14 @@ for(let i = 0; i < diasDaSemana.length ; i++){
     console.log(diasDaSemana[i])
 }
 
-//
+
+
+
+
+
+
 let fibonacci = []
+
 fibonacci[0] = 0
 fibonacci[1] = 1
 fibonacci[2] = 1
@@ -35,3 +41,5 @@ for(let i = 3; i < 20 ; i++){
 for(var i = 0; i < fibonacci.length; i++){
     console.log(fibonacci[i])
 }
+
+
